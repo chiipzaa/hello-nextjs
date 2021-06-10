@@ -1,7 +1,13 @@
 {
+  "/about": "pages/about.html",
+  "/api/posts": "pages/api/posts.js",
+  "/api/posts/[id]": "pages/api/posts/[id].js",
+  "/blogs/[id]": "pages/blogs/[id].html",
+  "/": "pages/index.html",
+  "/meow": "pages/meow.js",
+  "/meow_static": "pages/meow_static.js",
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/blogs/[id]": "pages/blogs/[id].js",
-  "/about": "pages/about.js"
+  "/404": "pages/404.html"
 }

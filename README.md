@@ -1,2 +1,1 @@
-Getting Started With Next.js
-เริ่มต้นการเขียน Next.js กัน
+Getting Started With Next.js [เริ่มต้นการเขียน Next.js กัน]
